@@ -17,6 +17,9 @@ The Ublox ODIN-W2 development board acts as the core communicator, always connec
 
 The phone becomes the remote — simple and always with the user.
 
+<img width="383" alt="Screenshot 2025-06-01 at 18 41 00" src="https://github.com/user-attachments/assets/e3320520-dd06-4dc0-ac8f-720dcf68c68f" />
+
+
 ## 🔧 Configuration Steps
 
 Using AT commands, we configured the module like this:
@@ -34,6 +37,4 @@ AT+UWSCAN               // Scan for available networks
 AT+UWSC=0,2,<WiFi Name> // WiFi network name
 AT+UWSC=0,8,<Password>  // WiFi password
 AT+UWSCA=0,3            // Connect to WiFi
-
-<img width="383" alt="Screenshot 2025-06-01 at 18 41 00" src="https://github.com/user-attachments/assets/e3320520-dd06-4dc0-ac8f-720dcf68c68f" />
 
