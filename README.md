@@ -15,7 +15,7 @@ No extra devices. No complication. Only what is needed.
 We used WiFi and TCP/IP protocols to send commands from a smartphone to the cottage's heating system.  
 The Ublox ODIN-W2 development board acts as the core communicator, always connected to the cottage WiFi.
 
-The phone becomes the remote — simple and always with the user.
+The phone becomes the remote, simple and always with the user.
 
 <img width="383" alt="Screenshot 2025-06-01 at 18 41 00" src="https://github.com/user-attachments/assets/e3320520-dd06-4dc0-ac8f-720dcf68c68f" />
 
