@@ -8,7 +8,7 @@ The goal is to control the heating of a summer cottage from afar — quietly and
 In winter, the summer cottage is left cold and empty. When the family plans to return for Christmas, the house must be warm, a process that takes days.  
 To avoid waste and discomfort, we wanted to make it possible to turn on the heat in advance from anywhere using just a mobile phone.
 
-No extra devices. No complication, only what is needed.
+No extra devices. No complication. Only what is needed.
 
 ## ⚙️ Solution Summary
 
